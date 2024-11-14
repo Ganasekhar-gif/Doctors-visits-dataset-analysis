@@ -41,7 +41,7 @@ You can install the required dependencies by running:
 
 pip install pandas numpy matplotlib seaborn                                                                          
 
-git clone https://github.com/yourusername/doctor-visit-data-analysis.git                            
+  https://github.com/Ganasekhar-gif/Doctors-visits-dataset-analysis.git
 
 cd doctor-visit-data-analysis
 ### How to Run
@@ -59,7 +59,8 @@ Health Status vs. Activity: The project compares health status and activity redu
 The analysis includes various visualizations such as:
 
 Heatmap: Shows correlations between different variables like age, illness type, income, etc.
+https://github.com/user-attachments/assets/92f229f4-073a-4c77-b2ad-4da0eed451c0
 
 Bar Plots: Used for comparing illness frequency across genders and income groups.
+https://github.com/user-attachments/assets/4713b5ab-b1f2-4ed9-9767-8282b848c028
 
-Line Graphs: Visualize trends in health status and activity levels over time.
